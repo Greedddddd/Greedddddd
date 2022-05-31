@@ -1,4 +1,5 @@
-![github-header-image](https://user-images.githubusercontent.com/101616140/171069429-4832d13a-2807-4507-9987-1d0e3b4f4639.png)
+![github-header-image (1)](https://user-images.githubusercontent.com/101616140/171069610-601d4ebc-4c97-44e0-a977-a867b4f3cf39.png)
+
 - 👋 Hi, I’m @Greedddddd
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
